@@ -1,10 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "uUZ9GCol++sXZqzvTMxrU09Mg4WscfbuYTqxgsDLSkydR8u2UUi3q914fPAj+xdDjJK+ri3kDKYfQ/M4ogIhtA==",
+  "dgSpecHash": "gUG5NXAzygH5hgA1d8Y1UDwX4XPLBwHMAcyvTdeFv8Xzd5S8AOIeFmzF0mp12GRQ4xB0mq1eL0wKNnSVfTYSYg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\opilane\\source\\repos\\BitCoinCalculator\\BitCoinCalculator\\BitCoinCalculator.csproj",
+  "projectFilePath": "C:\\Users\\Erki\\Source\\repos\\Week20-Bitcoin\\BitCoinCalculator\\BitCoinCalculator.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\opilane\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+    "C:\\Users\\Erki\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\Erki\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512",
+    "C:\\Users\\Erki\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\Erki\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\Erki\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
   ],
   "logs": []
 }

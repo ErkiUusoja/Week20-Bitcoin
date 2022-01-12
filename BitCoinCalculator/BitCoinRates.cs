@@ -13,12 +13,10 @@ namespace BitCoinCalculator
     public class bpi
     {
         public EUR EUR { get; set; }
+        public USD USD { get; set; }
+        public GBP GBP { get; set; }
     }
 
-    public class bpi1
-    {
-        public USD USD { get; set; }
-    }
 
     public class EUR
     {
